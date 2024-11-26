@@ -24,4 +24,4 @@ or
 ```
 python3 pumpfun_sniper.py  --max-coins 5 --min 0.1 --seed-phrase 'chicken law traction era debt formation offset directory science novel auction appetite'
 ```
-<img src="https://github.com/Web3TechDev/PumpFun-Sniper/blob/main/1.jpg?raw=true" width=50% height=50%>
+<img src="https://github.com/Web3TechDev/PumpFun-Sniper/blob/main/1.jpg?raw=true" width=70% height=70%>
