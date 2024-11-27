@@ -18,10 +18,10 @@ cd PumpFun-Sniper
 
 Run the script as follows:
 ```
-python3 pumpfun_sniper.py  --max-coins 5 --min 0.1 --private-key c316a0895a2ae4620c28af7913573e20ea4f0c60002274bd34c3f67210d65f75
+python3 pumpfun_sniper.py  --max-coins 5 --min 0.1 --private-key <WALLET-PRIVATE-KEY>
 ```
 or
 ```
-python3 pumpfun_sniper.py  --max-coins 5 --min 0.1 --seed-phrase 'chicken law traction era debt formation offset directory science novel auction appetite'
+python3 pumpfun_sniper.py  --max-coins 5 --min 0.1 --seed-phrase 'chicken law traction era debt ..........'
 ```
 <img src="https://github.com/Web3TechDev/PumpFun-Sniper/blob/main/1.jpg?raw=true" width=74% height=74%>
